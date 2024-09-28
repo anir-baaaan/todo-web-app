@@ -1,11 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="script.js" defer></script>
     <title>Life Manager - App</title>
 </head>
+
 <body>
+    <!-- Navigation Bar -->
+	<header>
+		<a href="../home/" class="logo">Life Manager</a>
+
+		<nav>
+			<a href="../home/">Back Home</a>
+		</nav>
+	</header>
+
+    <div class="container">
+        <div class="todo-header">
+            <h2>Category 1 📝</h2>
+        </div>
+
+        <div class="todo-body">
+            <input type="text" id="todoText" class="todo-input" placeholder="Add your items" />
+            <img src="/images/plus.png" alt="+" id="AddUpdateClick" onclick="CreateToDoItems();" />
+        </div>
+
+        <h5 id="Alert"></h5>
+        <ul id="list-items" class="list-items"></ul>
+    </div>
     
+    <!-- <div class="container2"></div>
+        <div class="todo-header2">
+            <h2>Category 2 📝</h2>
+        </div>
+
+        <div class="todo-body2">
+            <input type="text" id="todoText2" class="todo-input2" placeholder="Add your items" />
+            <img src="/images/plus.png" alt="+" id="AddUpdateClick2" onclick="CreateToDoItems2();" />
+        </div>
+
+        <h5 id="Alert2"></h5>
+        <ul id="list-items2" class="list-items2"></ul>
+    </div> -->
 </body>
+
 </html>
