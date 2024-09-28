@@ -13,4 +13,4 @@ Hosted at [https://anir-baaaan.github.io/todo-web-app/home/](https://anir-baaaan
 * VS Code
 * Git
 
-# Document of resources at ]../docs/RESOURCES USED.docx](../docs/RESOURCES USED.docx)
+# Document of resources at [../docs/RESOURCES USED.docx](../docs/RESOURCES USED.docx)
