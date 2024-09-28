@@ -1,0 +1,16 @@
+# HT103 - To-Do List Application
+Create a fully functional to-do list application where users can easily manage their tasks. Users should be able to add new tasks, edit existing ones, delete them, categorize tasks into different groups (such as work, personal, or urgent), and set deadlines with reminders. Implement task prioritization and filtering options for a better user experience. The app should offer a simple yet intuitive interface, allowing users to organize and track their productivity efficiently.
+
+# Resources Links
+1 https://coolors.co/4e5340-697268-95a3a4-b7d1da-e2e8dd
+2 https://fonts.google.com/specimen/Fredoka?preview.text=The%20quick%20brown%20fox%20jumps%20over%20the%20lazy%20white%20dog.&stroke=Sans+Serif
+3 https://fonts.google.com/specimen/Playwrite+US+Trad?query=playwrite+us
+4 https://fonts.google.com/specimen/Comfortaa?classification=Display
+5 https://youtu.be/6eFwtaZf6zc
+6 https://youtu.be/u_ocJEv6c4Q
+7 https://www.youtube.com/watch?v=-u3vE84Wo_U
+8 https://www.youtube.com/watch?v=mZp51DGO5ws
+
+# Colors used: 4E5340 697268 95A3A4 B7D1DA E2E8DD
+             6c7677
+
